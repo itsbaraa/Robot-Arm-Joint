@@ -1,4 +1,4 @@
-# Robot Arm Mount Bracket
+# Robot Arm Joint Enhancement
 
 U-shaped elbow mount bracket designed for a robot arm.
 
