@@ -1,9 +1,9 @@
-# Robot Arm Elbow Mount
+# Robot Arm Mount Bracket
 
 U-shaped elbow mount bracket designed for a robot arm.
 
 ## Overview
-This design should improve the stability and strength of the shape by increasing both of the thickness and the fillet radius.
+This design should improve the stability and strength of the shape by increasing the thickness and the fillet radius.
   
 Modified aspects:
 
